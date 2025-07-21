@@ -1,0 +1,7 @@
+# Ignore virtual environment and unnecessary files
+/Scripts/
+/Lib/
+/.idea/
+/__pycache__/
+/*.pyc
+/pyvenv.cfg
